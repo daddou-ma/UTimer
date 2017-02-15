@@ -1,0 +1,78 @@
+.box {
+    max-width: 430px;
+    margin: 50px auto;
+    background: #E8E8E8;
+    border: 1px solid #CCC;
+    border-radius: 4px;
+    padding: 15px
+}
+
+.timer__title {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 300;
+    padding: 0;
+    margin: 0 15px 0 0;
+}
+
+.timer__time {
+    text-align: center;
+    font-weight: 300;
+    padding: 0;
+    margin: 0;
+}
+
+.timer__hours {
+    width: 100px;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+.timer__minutes {
+    width: 100px;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+.timer__seconds {
+    width: 100px;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+.timer__millis {
+    width: 100px;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+.timer__number {
+    display: inline-block;
+    width: 43px;
+    font-size: 83px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.btn-default {
+    border: 1px solid #CCC;
+    background: #FFF;
+    color: #333;
+    line-height: 38px;
+    width: 49%;
+    border-radius: 3px;
+}
+
+.btn-primary {
+    border: 1px solid #1c769d;
+    background: #2c86ad;
+    color: #FFF;
+    line-height: 38px;
+    width: 49%;
+    border-radius: 3px;
+}
